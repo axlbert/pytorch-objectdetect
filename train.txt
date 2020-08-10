@@ -1,0 +1,15 @@
+./data/artifacts/images/img9.JPG
+./data/artifacts/images/img8.JPG
+./data/artifacts/images/img5.JPG
+./data/artifacts/images/img4.JPG
+./data/artifacts/images/img6.JPG
+./data/artifacts/images/img7.JPG
+./data/artifacts/images/img3.JPG
+./data/artifacts/images/img2.JPG
+./data/artifacts/images/img1.JPG
+./data/artifacts/images/img14.JPG
+./data/artifacts/images/img15.JPG
+./data/artifacts/images/img11.JPG
+./data/artifacts/images/img10.JPG
+./data/artifacts/images/img12.JPG
+./data/artifacts/images/img13.JPG

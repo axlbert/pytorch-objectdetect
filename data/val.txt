@@ -1,0 +1,10 @@
+/Users/alex/pytorch-test/data/artifacts/images/img24.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img69.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img56.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img90.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img93.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img74.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img7.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img67.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img104.JPG
+/Users/alex/pytorch-test/data/artifacts/images/img102.JPG
